@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-26T19:17:07 IST" name="Default suite" finished-at="2026-10-26T19:17:20 IST" duration-ms="13850">
+    <groups>
+    </groups>
+    <test started-at="2026-10-26T19:17:07 IST" name="Default test" finished-at="2026-10-26T19:17:20 IST" duration-ms="13850">
+      <class name="com.BookFlight.TestCases.TestCases">
+        <test-method is-config="true" signature="launchChromeBrowser()[pri:0, instance:com.BookFlight.TestCases.TestCases@333291e3]" started-at="2026-10-26T19:17:07 IST" name="launchChromeBrowser" finished-at="2026-10-26T19:17:11 IST" duration-ms="4714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChromeBrowser -->
+        <test-method signature="searchFlightTickets()[pri:0, instance:com.BookFlight.TestCases.TestCases@333291e3]" started-at="2026-10-26T19:17:11 IST" name="searchFlightTickets" finished-at="2026-10-26T19:17:20 IST" duration-ms="8952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlightTickets -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.BookFlight.TestCases.TestCases@333291e3]" started-at="2026-10-26T19:17:20 IST" name="CloseBrowser" finished-at="2026-10-26T19:17:20 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.BookFlight.TestCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
